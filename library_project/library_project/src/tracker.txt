@@ -1,0 +1,12 @@
+Virtual environment created successfully
+Project folder and src folder created
+book.py file completed
+exceptions.py file completed
+library.py class implemented
+Custom iterator added for available books
+Generator function added for books by author
+digital_library.py created and inheritance implemented
+main.py created and testing done
+Comments added in code
+requirements.txt added
+Final testing successful (program running without errors)
